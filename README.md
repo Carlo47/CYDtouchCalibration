@@ -1,7 +1,8 @@
 ## CYDtouchCalibration
 
-First of all: **I wish everyone a Happy New Year**: 
-$$45^2 = 3^{2^2} \cdot 5^2 = (\sum\limits_{n=1}^9 n)^2 = \sum\limits_{n=1}^9 n^3 = {{10} \choose {2}}^2 = 2025$$ 
+First of all: **I wish everyone a Happy New Year**
+ 
+$45^2 = 3^{2^2} \cdot 5^2 = \left(\sum\limits_{n=1}^9 n\right)^2 = \sum\limits_{n=1}^9 n^3 = {{10} \choose {2}}^2 = 2025$
 ---
 The CYDtouchCalibration program shows how the touchpad of the CYD can be 
 calibrated. The LovyanGFX and XPT2046_Bitbang libraries are used for this. The 
